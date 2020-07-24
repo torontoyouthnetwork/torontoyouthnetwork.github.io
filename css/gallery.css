@@ -28,6 +28,6 @@ div.desc {
 }
 
 div.gallery img:hover {
-  transform: scale(1.5);
 	z-index: 1;
+  transform: scale(1.5);
 }
