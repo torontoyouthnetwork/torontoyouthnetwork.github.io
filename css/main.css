@@ -121,7 +121,7 @@
 
 .wrapper {
     position: relative;
-    background: #000000;
+    background: #ffffff;
 }
 .wrapper,
 .header {
@@ -794,11 +794,11 @@ select.error {
     flex-direction: column;
 }
 .block-sponsor img {
-    opacity: .18;
+    opacity: 1;
     width: 85%;
 }
 .block-sponsor span{
-	opacity: .18;
+	opacity: 1;
 }
 
 .block-sponsor:hover img, .block-sponsor:hover span{
