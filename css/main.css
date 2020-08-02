@@ -361,10 +361,16 @@ h1.large {
 
 /* Speakers section*/
 
-.block-img {
-    height: 350px;
+.block-img-custom {
+    height: 125px;
     position: relative;
 }
+
+.block-img {
+    height: 300px;
+    position: relative;
+}
+
 .block-speaker .block-img:after {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,444444+70,444444+100&0+3,0.4+70,1+100 */
 
